@@ -9,7 +9,7 @@ export default function index() {
           <p>
             The advent of human flight not only boosted our power of movement,
             but also enhanced our vision: We gained the ability to see the Earth
-            from above. Before the Wrights' epochal breakthrough, there had been
+            from above. Before the Wrights epochal breakthrough, there had been
             perhaps thousands of human flights, mostly in balloons.
           </p>
         </div>
